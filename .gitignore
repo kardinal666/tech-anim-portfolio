@@ -1,0 +1,41 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcworkspace
+*.xcodeproj
+CrashReportClient/
+.vs/
+
+# Maya
+*.swatches
+*.mayaSwatches
+incrementalSave/
+autosave/
+*.mel.bak
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large binary assets — don't commit these, use Git LFS or link externally
+*.fbx
+*.abc
+*.obj
+*.mp4
+*.mov
+*.avi
