@@ -8,7 +8,7 @@
 
 | Wk | Dates | Focus | Hrs | Status | Notes / blockers |
 |----|-------|-------|-----|--------|------------------|
-| 1 | Apr 1–7 | UE5 setup & Skeleton asset | | 🔄 | |
+| 1 | Apr 1–7 | UE5 setup & Skeleton asset | | ✅ | |
 | 2 | Apr 8–14 | Blend Space & velocity | | 🔲 | |
 | 3 | Apr 15–21 | ABP checkpoint — GitHub push | | 🔲 | |
 | 4 | Apr 22–28 | State Machine: grounded / in-air | | 🔲 | |
